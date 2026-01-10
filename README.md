@@ -1,5 +1,4 @@
-## 💫 Hi there, 
-## I’m Ranwei Zhang 👋
+ ##  Hi there!💫 <br/> I’m Ranwei Zhang 👋
 
 I’m a **Software Development graduate** who enjoys building **interactive systems** at the intersection of **game programming, computer graphics, and applied AI**. I’m particularly interested in how low-level logic, real-time systems, and visual feedback come together to create engaging and responsive user experiences.
 
