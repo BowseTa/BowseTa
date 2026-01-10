@@ -1,5 +1,11 @@
-## 💫 Hi there, I’m Ranwei Zhang 👋<br>
-<br>I’m a **Software Development graduate** who enjoys building **interactive systems** at the intersection of **game programming, computer graphics, and applied AI**. I’m particularly interested in how low-level logic, real-time systems, and visual feedback come together to create engaging user experiences.<br><br>Most of my work focuses on **C/C++ game and graphics programming**, **Android application development**, and **AI-assisted learning tools**. I enjoy working close to the system level — handling things like rendering pipelines, animation logic, collision detection, and real-time updates — while also exploring how AI can be applied in practical, human-focused contexts.<br><br>GitHub is where I experiment, build, and refine ideas through projects and prototypes, often growing them iteratively from simple concepts into more complete systems.<br><br>
+## 💫 Hi there, 
+## I’m Ranwei Zhang 👋
+
+I’m a **Software Development graduate** who enjoys building **interactive systems** at the intersection of **game programming, computer graphics, and applied AI**. I’m particularly interested in how low-level logic, real-time systems, and visual feedback come together to create engaging and responsive user experiences.
+
+Most of my work focuses on **C/C++ game and graphics programming**, **Android application development**, and **AI-assisted learning tools**. I enjoy working close to the system level — handling things like rendering pipelines, animation logic, collision detection, and real-time updates — while also exploring how AI can be applied in practical, human-focused contexts.
+
+GitHub is where I experiment, build, and refine ideas through projects and prototypes, often growing them iteratively from simple concepts into more complete systems.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Ranwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=BowseTa&count_private=true&show_icons=true&theme=radical&hide_rank=false&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
