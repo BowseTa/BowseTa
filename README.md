@@ -15,16 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BowseTa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BowseTa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BowseTa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BowseTa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BowseTa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=BowseTa&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
