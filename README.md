@@ -7,7 +7,7 @@ Most of my work focuses on **C/C++ game and graphics programming**, **Android ap
 GitHub is where I experiment, build, and refine ideas through projects and prototypes, often growing them iteratively from simple concepts into more complete systems.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Ranwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=BowseTa&count_private=true&show_icons=true&theme=radical&hide_rank=false&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Ranwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=BowseTa&count_private=true&show_icons=true&theme=radical&hide_rank=false&CACHE_SECONDS=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 💻 Tech Stack:
